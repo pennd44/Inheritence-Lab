@@ -1,0 +1,12 @@
+/Users/penn/Projects/Lesson7/bin/Debug/netcoreapp3.1/Lesson7.deps.json
+/Users/penn/Projects/Lesson7/bin/Debug/netcoreapp3.1/Lesson7.runtimeconfig.json
+/Users/penn/Projects/Lesson7/bin/Debug/netcoreapp3.1/Lesson7.runtimeconfig.dev.json
+/Users/penn/Projects/Lesson7/bin/Debug/netcoreapp3.1/Lesson7.dll
+/Users/penn/Projects/Lesson7/bin/Debug/netcoreapp3.1/Lesson7.pdb
+/Users/penn/Projects/Lesson7/obj/Debug/netcoreapp3.1/Lesson7.csprojAssemblyReference.cache
+/Users/penn/Projects/Lesson7/obj/Debug/netcoreapp3.1/Lesson7.AssemblyInfoInputs.cache
+/Users/penn/Projects/Lesson7/obj/Debug/netcoreapp3.1/Lesson7.AssemblyInfo.cs
+/Users/penn/Projects/Lesson7/obj/Debug/netcoreapp3.1/Lesson7.csproj.CoreCompileInputs.cache
+/Users/penn/Projects/Lesson7/obj/Debug/netcoreapp3.1/Lesson7.dll
+/Users/penn/Projects/Lesson7/obj/Debug/netcoreapp3.1/Lesson7.pdb
+/Users/penn/Projects/Lesson7/obj/Debug/netcoreapp3.1/Lesson7.genruntimeconfig.cache
